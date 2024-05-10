@@ -1,2 +1,2 @@
 # Titanic_Kaggle
-Just testing kaggle and reviewing advanced feature engineering.
+Example of advanced feature engineering for tabular data.
